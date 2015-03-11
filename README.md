@@ -1,13 +1,9 @@
 yGEMe
 ========================
 
-The yGEMe (yeast genome scale model evaluation) toolbox is a MATLAB package for evaluating under different metrics _S. cerevisiae_ GEMs. If used in any form of academic publication, the following reference should be included:
+The yGEMe (yeast genome scale model evaluation) toolbox is a MATLAB package for evaluating under different metrics _S. cerevisiae_ GEMs. yGEMe was programmed by Benjamín J. Sánchez (@BenjaSanchez), Division of Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology.
 
-_Benjamín J. Sánchez, Jens Nielsen. Genome scale models of yeast: Towards standardized evaluation and consistent -omic integration (under preparation)._
-
-yGEMe was programmed by Benjamín J. Sánchez (@BenjaSanchez), Division of Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology.
-
-Last update: 2015-02-23
+Last update: 2015-03-11
 
 ========================
 
